@@ -31,10 +31,19 @@ Developed a clear and organized structure for the website, ensuring logical grou
 
 ## Figma Screenshots
 
+<div align="center">
+  <img src= "https://github.com/Tech-neophyte/UI-UX-Case-Studies/assets/122295513/fd1a135a-9e4e-4f3e-b270-3b703ce5c22a" width="400"
+/>
+  <img src="https://github.com/Tech-neophyte/UI-UX-Case-Studies/assets/122295513/92e11498-2742-43ad-a286-1b81ed37a94e" width="400" />
+</div>
+<div align="center">
+  <img src="https://github.com/Tech-neophyte/UI-UX-Case-Studies/assets/122295513/341b9ade-584a-4dd5-a9ed-87f37fa81352" width="400" />
+  <img src="https://github.com/Tech-neophyte/UI-UX-Case-Studies/assets/122295513/c8bb3da2-5af1-4d93-be2e-3b72563555c2" width="400" />
+</div>
 
 ## Conclusion
 The LMS website focuses on creating a user-centric, visually appealing, and efficient learning environment. The iterative design process were instrumental in shaping the final interface. 
 
-To explore the [Figma Prototypes](link-to-figma).
+To explore the Figma Prototype, [click here](https://www.figma.com/file/8xnYBwi218LiR9rYxxkbvs/Learning-management-system?type=design&node-id=0%3A1&mode=design&t=BpLztae4woEEpFf6-1).
 
 Thank you!
