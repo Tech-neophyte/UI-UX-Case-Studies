@@ -31,14 +31,18 @@ Story Haven addresses these challenges by providing a user-centric platform that
 
 Explore the designs for different pages on Figma [here](https://www.figma.com/file/pp4bNO3tyHfmRn10eCYqbO/Book-community?type=design&node-id=0%3A1&mode=design&t=xz3Tv0x8f1UaZkfW-1). 
 
-**Screenshot 1: Home Page**
-![Home Page](insert_home_page_screenshot_link_here)
+**Screenshot 1: Login Page**
+![image](https://github.com/Tech-neophyte/UI-UX-Case-Studies/assets/122295513/cecd5fc0-f70e-494c-b555-3681327f703e)
+
 
 **Screenshot 2: Book Discovery**
-![Book Discovery](insert_book_discovery_screenshot_link_here)
+![image](https://github.com/Tech-neophyte/UI-UX-Case-Studies/assets/122295513/62880565-81f0-41df-9561-8c1a9d693e9e)
 
-**Screenshot 3: Community Forum**
-![Community Forum](insert_community_forum_screenshot_link_here)
+
+**Screenshot 3: Clubs joined page**
+![image](https://github.com/Tech-neophyte/UI-UX-Case-Studies/assets/122295513/7bae88b7-7b94-403c-9808-9707966b72c2)
+
 
 **Screenshot 4: User Profile**
-![User Profile](insert_user_profile_screenshot_link_here)
+![image](https://github.com/Tech-neophyte/UI-UX-Case-Studies/assets/122295513/c8d808bc-5907-4b24-9bbd-4538c341f4ca)
+
